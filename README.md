@@ -22,7 +22,8 @@ Good for building websites
 **CSS and SCSS**
 
 **Database Stuff and SQL**
-- Databases are pretty important
+- Databases are pretty important <br>
+
 **Even some mermaid.js stuff**
 - its a visualization library
 
