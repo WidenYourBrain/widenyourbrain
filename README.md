@@ -1,4 +1,7 @@
-## Hi there 👋
+# About Widen Your Brain
+
+This is the GitHub account that will host code for future projects and tutorials and are shared on social platforms.
+Hopefully some of the projects and tutorials are good.
 
 <!--
 **WidenYourBrain/widenyourbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
